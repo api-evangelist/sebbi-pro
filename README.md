@@ -1,4 +1,4 @@
-# sebbi-pro
+# SEBBI.PRO
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,113 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-sebbi-pro is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://sebbi.pro/
+SEBBI.PRO provides a proof layer for AI, sealing every AI decision with cryptographic evidence. The platform offers tools for AI oversight, bias testing, compliance, and post‑quantum enforcement, enabling developers and enterprises to audit and verify AI outputs. It includes features such as AI Witness, Trust Centre, and a suite of AI safety utilities, all accessible via a web interface and API key.
+
+**Areas:** AI · Security · Compliance · Blockchain · Platform
+
+## SEBBI.PRO on APIs.io
+
+Everything profiled for SEBBI.PRO is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/sebbi-pro/](https://apis.io/providers/sebbi-pro/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [SEBBI.PRO X API](https://apis.io/apis/sebbi-pro/sebbi-pro-x-api/) — The X API from SEBBI.PRO — 18 operation(s) for x.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [SEBBI.PRO Agentic Access](https://apis.io/agentic-access/sebbi-pro/sebbi-pro-agentic-access/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [SEBBI.PRO API Rules](https://apis.io/rules/sebbi-pro/sebbi-pro-rules/)
+
+#### Security (4)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [SEBBI.PRO Authentication](https://apis.io/security/sebbi-pro/sebbi-pro-authentication/)
+- [SEBBI.PRO Domain Security](https://apis.io/security/sebbi-pro/sebbi-pro-domain-security/)
+- [SEBBI.PRO Trust Center](https://apis.io/security/sebbi-pro/sebbi-pro-trust-center/)
+- [SEBBI.PRO Vulnerability Disclosure](https://apis.io/security/sebbi-pro/sebbi-pro-vulnerability-disclosure/)
+
+#### Plans and pricing (1)
+
+Published plans, tiers and prices.
+
+- [SEBBI.PRO Plans Pricing](https://apis.io/plans/sebbi-pro/sebbi-pro-plans-pricing/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://sebbi.pro/)
+- [API reference](https://sebbi.pro/developers)
+- [Sign up](https://sebbi.pro/x/register/list)
+- [Support](https://sebbi.pro/x/machine/help)
+- [Security](https://sebbi.pro/trust)
+- [Compliance](https://sebbi.pro/trust)
+- [Terms of service](https://sebbi.pro/terms)
+
+## API Evangelist rating
+
+**Kin Score 45.8** — developing · rubric 0.28.0 · scored 2026-11-24
+
+| Facet | Score |
+|---|---|
+| Discoverability | 78.3 |
+| Contract quality | 44.7 |
+| Contract governance | 65.5 |
+| Operational transparency | 9.5 |
+| Developer ergonomics | 31.0 |
+| Access clarity | 47.2 |
+
+**Agent readiness 33.0** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | conformant |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | distinct |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 29.1** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/sebbi-pro/](https://apis.io/providers/sebbi-pro/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for SEBBI.PRO: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/sebbi-pro/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
